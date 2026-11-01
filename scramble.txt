@@ -191,7 +191,6 @@ samba
 ballett
 trompete
 posaune
-fagott
 oboe
 saxophon
 horn
