@@ -510,7 +510,6 @@ kenia
 tansania
 uganda
 ghana
-nigeria
 somalia
 chile
 peru
@@ -522,7 +521,6 @@ uruguay
 paraguay
 iran
 irak
-israel
 syrien
 tee
 most
@@ -587,7 +585,6 @@ amboss
 hebel
 winde
 werkbank
-mandarin
 kokos
 cashew
 holunder
